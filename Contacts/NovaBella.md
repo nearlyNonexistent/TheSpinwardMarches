@@ -1,9 +1,6 @@
 ---
 share: "true"
 title: Syr Nova Bella
-tags:
-  - friendly
-  - contact
 ---
   
 # Syr Nova Bella, Star Priestess  
