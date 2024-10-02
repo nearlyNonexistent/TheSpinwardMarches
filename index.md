@@ -8,5 +8,5 @@ title: index
 * [Traveller News Society](./TNS/index.md)  
 * [JumpLog](./JumpLog.md)  
 * [Library Data](Library%20Data.md)  
-* [Ship Papers](./Ship%20Papers/index.md)  
+* [Ship Papers](Ship%20Papers.md)  
 * Crew
