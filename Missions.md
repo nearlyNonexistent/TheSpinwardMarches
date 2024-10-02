@@ -1,8 +1,6 @@
 ---
 share: "true"
 ---
-  
-  
 # Primary Mission Objective  
 - [ ] Procure Cr250,000 monthly for 40 years.  
     - [ ] Travel to Flammarion. Offload stolen TTC cargo.  
