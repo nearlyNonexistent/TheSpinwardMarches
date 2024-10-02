@@ -7,10 +7,10 @@ share: "true"
   
 | **Name**                                    | **Relationship**                                                      |  
 | ------------------------------------------- | --------------------------------------------------------------------- |  
-| [[Contacts/Doctor Nikkolas Cell, Xenoarch|Contacts/Doctor Nikkolas Cell, Xenoarch]] | Would collaborate on Rrhyngir's research in the hackerspace.          |  
-| [[Contacts/Kaveg Xihn, Zhodani Agent|Contacts/Kaveg Xihn, Zhodani Agent]]      | One night stand with Rrhyngir. Still in her MySpace friends list.     |  
-| [[Contacts/Nova Bella, Star Priestess|Contacts/Nova Bella, Star Priestess]]     | Talia's long distance relationship.                                   |  
-| [[Contacts/Dawn Jumper, Pirate|Contacts/Dawn Jumper, Pirate]]            | One of the few members of Talia's old crew who still speaks with her. |  
+| [Doctor Nikkolas Cell, Xenoarch](Contacts/Doctor%20Nikkolas%20Cell,%20Xenoarch.md) | Would collaborate on Rrhyngir's research in the hackerspace.          |  
+| [Kaveg Xihn, Zhodani Agent](Contacts/Kaveg%20Xihn,%20Zhodani%20Agent.md)      | One night stand with Rrhyngir. Still in her MySpace friends list.     |  
+| [Nova Bella, Star Priestess](Contacts/Nova%20Bella,%20Star%20Priestess.md)     | Talia's long distance relationship.                                   |  
+| [Dawn Jumper, Pirate](Contacts/Dawn%20Jumper,%20Pirate.md)            | One of the few members of Talia's old crew who still speaks with her. |  
 ## Neutral  
   
 | **Name**                                | **Relationship**                           |  
@@ -20,7 +20,7 @@ share: "true"
   
 | **Name**                  | **Relationship**                                                                                                        |  
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------- |  
-| [[Contacts/Khloe Tanaka|Contacts/Khloe Tanaka]] | Trexalon Technical Consortium colony manager for one of the more backwater branches. You held her up to steal her shit. |  
+| [Khloe Tanaka](Contacts/Khloe%20Tanaka.md) | Trexalon Technical Consortium colony manager for one of the more backwater branches. You held her up to steal her shit. |  
 # Organizations, Sector Wide  
 ## Third Imperium of the Stars  
 *Note: the Imperial aristocracy has many internal political conflicts, which will be listed separately if required.*  
