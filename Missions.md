@@ -6,6 +6,7 @@ share: "true"
     - [ ] Travel to Flammarion. Offload stolen TTC cargo.  
     - [x] Steal valuables from Trexalon mining town on Asteltine.  
 - [x] Acquire the IFT Be Back By Dawn  
+  
 # Secondary Objectives  
 - [ ] Acquire a crewmate for the fourth stateroom.  
 - [ ] Join the Syndicate?  
@@ -14,6 +15,6 @@ share: "true"
     - [ ] Data Display/Recorder for connecting to computer (AR headset upgrade)  
     - [ ] Drone Control Helmet + Software  
     - [ ] Swarm Controller Console + Software  
-- [ ] RRHYNGIR: Go to [Mithril](../Location/Mithril.md).  
+- [ ] RRHYNGIR: Go to [Mithril](./Location/Mithril.md).  
   
-[> Return to Computer Overview](../index.md)
+[> Return to Computer Overview](./index.md)
