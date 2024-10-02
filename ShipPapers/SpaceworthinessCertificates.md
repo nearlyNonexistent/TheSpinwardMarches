@@ -1,8 +1,11 @@
 ---
 share: "true"
 title: Shipworthiness Certificates
+tags:
+  - shippapers
 ---
-# Initial Certificate  
+# Spaceworthiness Certificates  
+## Initial Certificate  
 TO WHOM IT MAY CONCERN:  
   
 |                      |                                  |  
@@ -22,7 +25,8 @@ BOWMAN, LSP-02 M5.25 1100
 LEAD INSPECTOR: _Jonas Phillips_, Chief Inspector of LSP-02's Shipyard Division.  
   
 _This transport statement pertains only to the specific 3IS Vessel identified in this statement. It shall not survive the expiry of 365 running days from the date of issuance of this statement. This statement is issued subject to the terms and conditions of the governing 3IS Bill…. (Truncated.)  
-# Current Certificate (Truncated)  
+  
+## Current Certificate (Truncated)  
   
 |                      |                                  |  
 | -------------------- | -------------------------------- |  
@@ -34,4 +38,8 @@ _This transport statement pertains only to the specific 3IS Vessel identified in
   
 BOWMAN, LSP-02 M2.30 1105  
   
-LEAD INSPECTOR: _Jonas Phillips_, Chief Inspector of LSP-02's Shipyard Division.
+LEAD INSPECTOR: _Jonas Phillips_, Chief Inspector of LSP-02's Shipyard Division.  
+  
+[> Return to Ship Papers Index](./index.md)  
+  
+#shippapers

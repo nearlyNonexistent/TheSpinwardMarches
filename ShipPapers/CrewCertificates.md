@@ -1,7 +1,10 @@
 ---
 share: "true"
 title: Crew Certificates
+tags:
+  - shippapers
 ---
+# Crew Licenses & Certificates  
 ## Rrhyngir, Pilot License  
   
   
@@ -17,4 +20,8 @@ title: Crew Certificates
 | ---------------- | ----------------------------------------- | ---------------------------------------------- | ------------------------- |  
 | FINLAY, TALIA A. | M. KOVA STARS AND SEA UNIVERSITY, COLLACE | I. GENERAL TRAINING<br><br>II. MANOEUVRE DRIVE | A. ASTROGATION            |  
 | SPECIES          | GENDER                                    | ISSUED                                         | EXPIRY                    |  
-| SOLOMANI         | WATER? (SHE/HER)                          | M1.05 1079                                     | M1.05 1106                |
+| SOLOMANI         | WATER? (SHE/HER)                          | M1.05 1079                                     | M1.05 1106                |  
+  
+[> Return to Ship Papers Index](./index.md)  
+  
+#shippapers

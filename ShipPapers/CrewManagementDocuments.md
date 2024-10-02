@@ -1,6 +1,8 @@
 ---
 share: "true"
 title: Crew Management Documents
+tags:
+  - shippapers
 ---
 # Articles of Agreement  
   
@@ -36,4 +38,8 @@ IN WITNESS WHEREOF the said Crew have subscribed their names herein on the Crew 
   
 ## Working Passage  
   
-N/A...
+N/A...  
+  
+[> Return to Ship Papers Index](./index.md)  
+  
+#shippapers

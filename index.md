@@ -1,12 +1,31 @@
 ---
 share: "true"
-title: index
+title: Empress Marava Ship Computer System
 ---
-# Index  
+# IFT Be Back By Dawn Computer Systems  
+  
+![BeBackByDawn.png](./Attachments/BeBackByDawn.png)  
+  
+## /status  
+* HULL INTEGRITY: 80/80  
+* FUEL: 21/41 TONS  
+* ESCROW: 0.13644 MCr  
+* TRANSPONDER MODE: Passive  
+  
+## /userdata  
+  
 * [Contacts](./Contacts/index.md)  
-* [Missions](./Missions.md)  
-* [Traveller News Society](./TNS/index.md)  
+* [Missions](./Attachments/Missions.md)  
+* [Traveller News Society Bulletin Board](./TNS/index.md)  
+* [Crew Profile Pages](./Crew/index.md)  
+  
+## /programs  
+* LibraryData  
+* Jump Control: V1  
+* Intellect: V1  
+* Sensors: Civilian-Grade, Active  
+  
+## /admin  
 * [Jump Log and Important Locations](./JumpLog.md)  
-* [Library Data](LibraryData.md)  
-* Crew  
-* [Ship Papers](./ShipPapers/index.md)
+* [Ship Papers](./ShipPapers/index.md)  
+  
