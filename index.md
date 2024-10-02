@@ -14,6 +14,7 @@ title: Empress Marava Ship Computer System
   
 ## /userdata  
   
+* ShipsLogs  
 * [Contacts](./Contacts/index.md)  
 * [Missions](./Attachments/Missions.md)  
 * [Crew Profile Pages](./Crew/index.md)  
@@ -25,7 +26,7 @@ title: Empress Marava Ship Computer System
 * [IISS Survey Mission Board](./IISSBoard.md)  
   
 ## /programs  
-* LibraryData  
+* [Library Data](./LibraryData/index.md)  
 * Jump Control: V1  
 * Intellect: V1  
 * Sensors: Civilian-Grade, Active  
