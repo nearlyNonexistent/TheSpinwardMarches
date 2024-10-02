@@ -6,7 +6,7 @@ tags:
   - contact
 ---
 # Doctor Nikkolas Cell, Xenoarch  
-![NikkolasCell.png](../Attachments/NikkolasCell.png)  
+![500x500](../Attachments/NikkolasCell.png)  
   
 Mad science and contemporary of [Rrhyngir](../Crew/Rrhyngir.md)'s time in the hackerspace, Doctor Nikkolas Cell has been called by some a "mad xenoarchaeologist" as he has been known to experiment on (highly illegal) technology belonging to the Ancients.  
   

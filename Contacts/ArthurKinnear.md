@@ -6,7 +6,7 @@ tags:
   - contact
 ---
 # Arthur Kinnear, Loan Shark  
-![ArthurKinnear.png](../Attachments/ArthurKinnear.png)  
+![500x500](../Attachments/ArthurKinnear.png)  
   
 Massive loan shark who made his money smuggling freight in-system on Bowman, and now bankrolls crime in the entire District. He's cosigned onto the Be Back By Dawn with the crew and Hortalez et Cie. He will enforce payments with bounty hunters, as he is liable for missed payments as well.  
   

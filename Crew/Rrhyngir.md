@@ -6,7 +6,7 @@ tags:
 ---
   
 # Captain Rrhyngir  
-![Rrhyngir.png](../Attachments/Rrhyngir.png)  
+![500x500](../Attachments/Rrhyngir.png)  
 ## awoo!!  
   
 - Bachelor's in Ship Economics at the Bowman Merchant Academy  

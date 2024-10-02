@@ -4,7 +4,7 @@ title: Empress Marava Ship Computer System
 ---
 # IFT Be Back By Dawn Computer Systems  
   
-![BeBackByDawn.png](./Attachments/BeBackByDawn.png)  
+![400x400](./Attachments/BeBackByDawn.png)  
   
 ## /status  
 * HULL INTEGRITY: 80/80  

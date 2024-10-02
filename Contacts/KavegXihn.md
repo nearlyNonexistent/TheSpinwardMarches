@@ -7,7 +7,7 @@ tags:
 ---
   
 # Kaveg Xihn, Zhodani Agent  
-![KavegXihn.png](../Attachments/KavegXihn.png)  
+![500x500](../Attachments/KavegXihn.png)  
   
 A member of the Zhodani Operative Network, Kaveg Xihn often goes by fake names when travelling. They are supposedly psionic, but details remain scarce. He had a one night stand with [Rrhyngir](../Crew/Rrhyngir.md).  
   
