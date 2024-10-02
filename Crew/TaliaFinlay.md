@@ -1,8 +1,6 @@
 ---
 share: "true"
 title: Talia Atlas Finlay
-tags:
-  - crew
 ---
 # Talia Atlas Finlay, First Mate  
   
