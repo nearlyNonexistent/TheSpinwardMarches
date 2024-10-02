@@ -12,16 +12,19 @@ title: Contacts
 | [Kaveg Xihn, Zhodani Agent](Contacts/Kaveg%20Xihn,%20Zhodani%20Agent.md)      | One night stand with Rrhyngir. Still in her MySpace friends list.     |  
 | [Nova Bella, Star Priestess](Contacts/Nova%20Bella,%20Star%20Priestess.md)     | Talia's long distance relationship.                                   |  
 | [Dawn Jumper, Pirate](Contacts/Dawn%20Jumper,%20Pirate.md)            | One of the few members of Talia's old crew who still speaks with her. |  
+  
 ## Neutral  
   
 | **Name**                                | **Relationship**                           |  
 | --------------------------------------- | ------------------------------------------ |  
 | [Arthur Kinnear, Loan Shark](Contacts/Arthur%20Kinnear,%20Loan%20Shark.md) | Cosigned onto the ship. Collects the debt. |  
+  
 ## Enemies  
   
 | **Name**                  | **Relationship**                                                                                                        |  
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------- |  
 | [Khloe Tanaka](Contacts/Khloe%20Tanaka.md) | Trexalon Technical Consortium colony manager for one of the more backwater branches. You held her up to steal her shit. |  
+  
 # Organizations, Sector Wide  
 ## Third Imperium of the Stars  
 *Note: the Imperial aristocracy has many internal political conflicts, which will be listed separately if required.*  
@@ -33,6 +36,7 @@ title: Contacts
 |                | Imperial Interstellar Scout Service | Exploration, Surveying       | ![](https://geps.dev/progress/50) |  
 |     **★**      | Travellers' Aid Society             | Starport Facilities & Travel | ![](https://geps.dev/progress/50) |  
 |     **★★**     | Church of Stellar Divinity          | Charity, Culture             | ![](https://geps.dev/progress/70) |  
+  
 ## Other Polities  
 Note: Aslan _ihatei_, Vargr packs and Droyne _oytrips_ consist of several related groups. This metric is only an average.  
   
@@ -45,6 +49,7 @@ Note: Aslan _ihatei_, Vargr packs and Droyne _oytrips_ consist of several relate
 |    **★★★**     | Vargr Packs           | Survival and Culture    | ![](https://geps.dev/progress/70) |  
 |                | Aslan _Ihatei_        | Land Acquisition        | ![](https://geps.dev/progress/30) |  
 |                | Droyne _Oytrips_      | Unknown                 | ![](https://geps.dev/progress/50) |  
+  
 ## Megacorporations  
   
 | **Importance** | **Name**                    | **Domain of Interest**           | **Relationship**                  |  
@@ -71,6 +76,7 @@ Note: Aslan _ihatei_, Vargr packs and Droyne _oytrips_ consist of several relate
 |     **★**      | The Syndicate                             | Smuggling, Space               | ![](https://geps.dev/progress/40) |  
 |                | Cult of the Traveller                     | Proseltyzing                   | ![](https://geps.dev/progress/30) |  
 |                | Democratic Government-in-Exile of Rabwhar | Reinstating the DGER           | ![](https://geps.dev/progress/40) |  
+  
 # Organizations, District 268  
   
 | **Importance** | **Name**                      | **Summary**                                           | **Relationship**                  |  
