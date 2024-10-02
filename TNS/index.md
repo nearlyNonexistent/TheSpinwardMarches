@@ -2,6 +2,6 @@
 share: "true"
 title: TNS
 ---
-**BREAKING NEWS**:[Broadcast M2.49 1105](./Broadcast%20M2.49%201105.md)  
+**BREAKING NEWS**:[BroadcastM2.491105](./BroadcastM2.491105.md)  
 Past broadcasts:  
-* [Broadcast M2.43 1105](./Broadcast%20M2.43%201105.md)
+* [BroadcastM2.431105](./BroadcastM2.431105.md)
