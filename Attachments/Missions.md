@@ -14,6 +14,6 @@ share: "true"
     - [ ] Data Display/Recorder for connecting to computer (AR headset upgrade)  
     - [ ] Drone Control Helmet + Software  
     - [ ] Swarm Controller Console + Software  
-- [ ] RRHYNGIR: Go to [Mithril](Location/Mithril.md).  
+- [ ] RRHYNGIR: Go to Mithril.  
   
 [> Return to Computer Overview](../index.md)
