@@ -1,9 +1,6 @@
 ---
 share: "true"
 title: Khloe Tanaka, TTC Exec
-tags:
-  - hostile
-  - contact
 ---
   
 # Khloe Tanaka, Colony Manager and TTC Executive  
