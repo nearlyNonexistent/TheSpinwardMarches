@@ -2,25 +2,17 @@
 share: "true"
 ---
   
-# [Collace 12.37](https://travellermap.com/?p=-101.758!43.016!7&options=58359&style=terminal&dimunofficial=1)  
+# Collace 12.37  
 *Client State, Third Imperium*  
   
 B628943-D  
-  
 Hi In Ht  
   
+Homeworld of [Talia Finlay](../Crew/TaliaFinlay.md), [Dawn Wave Jumper](../Contacts/DawnWaveJumper.md). The Sharkteeth were from there before disbanding; their members are now scattered across various pirate crews.  
   
-* Starport: B  
-* Size: 9600 km  
-* Atmosphere: (2) Very thin; tainted.  
-* Hydrographics: 80%  
-* Population: 1,000,000,000  
-* Government: (4) Representative Democracy  
-* Law Level: (3) Machine guns, automatic rifles prohibited  
-* Tech Level: (D) Above Average Imperial  
+A water-world, floating arcologies that quickly age are the primary form of housing, with the rich constantly moving to newer ones. Pirate crews exist on the seas and many take to space piracy. The M. Kova University of Sea and Stars exists here, training navigation, astrogation, engineering, seafaring, and piloting.  
   
-Homeworld of [Talia Finlay](../Crew/TaliaFinlay.md), [Dawn Wave Jumper](../Contacts/DawnWaveJumper.md). The Sharkteeth were from there.  
   
-#location  
+[>Return to Important Location Index](../JumpLog.md#important-locations)  
   
-[>Return to Important Location Index](../JumpLog.md#important-locations)
+#location
