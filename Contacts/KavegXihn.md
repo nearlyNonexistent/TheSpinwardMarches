@@ -1,9 +1,6 @@
 ---
 share: "true"
 title: Kaveg Xihn, Zhodani
-tags:
-  - friendly
-  - contact
 ---
   
 # Kaveg Xihn, Zhodani Agent  
