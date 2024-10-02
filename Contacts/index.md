@@ -21,9 +21,9 @@ title: Contacts
   
 ## Enemies  
   
-| **Name**                               | **Relationship**                                                                                                        |  
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |  
-| [Khloe Tanaka](./KhloeTanaka.md) | Trexalon Technical Consortium colony manager for one of the more backwater branches. You held her up to steal her shit. |  
+| **Name**                                         | **Relationship**                                                                                                        |  
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |  
+| [Khloe Tanaka, TTC Exec](./KhloeTanaka.md) | Trexalon Technical Consortium colony manager for one of the more backwater branches. You held her up to steal her shit. |  
   
 # Organizations, Sector Wide  
 ## Third Imperium of the Stars  
