@@ -27,6 +27,7 @@ IN WITNESS WHEREOF the said Crew have subscribed their names herein on the Crew 
 | ---------------- | ------------------------------ |  
 | FINLAY, TALIA A. | ENGINEER, MEDIC - PROFIT SHARE |  
 | N/A, RRHYNGIR    | CAPTAIN, PILOT - PROFIT SHARE  |  
+  
 ## Permanent Crew  
   
 | Name       | Title and Salary                   |  
