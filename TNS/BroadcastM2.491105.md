@@ -1,8 +1,6 @@
 ---
 share: "true"
 title: Broadcast M2.49 1105
-tags:
-  - news
 ---
 # Broadcast M2.49 1105  
 Trexalon Technical Consortium reports delays in payroll for the [Asteltine](Location/Asteltine.md) branch office for this month. Small scale riots broke out the announcement, but were quickly quelled by Trexalon security, with 3 fatalities on the miners' side. The announcement was made after highly rapid laser fire was heard from the manor, and a security response was deployed; though reporters were not allowed access to the manor to see the damages no casualties were reported. Afterwards it was discovered during headcounts that [Khi Ulaar](../Crew/KhiUlaar.md), previously chief prospector of crew #8, was missing, along with all of crew #8's staff. Current security reports believe that crew #8, being led by Khi Ulaar, robbed the shipment for themselves, and likely escaped by taking passage on a tramp freighter.  
