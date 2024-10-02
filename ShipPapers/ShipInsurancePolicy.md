@@ -1,6 +1,8 @@
 ---
 share: "true"
 tile: Ship Insurance Policy
+tags:
+  - shippapers
 ---
 # Ship Insurance Policy  
   
@@ -21,3 +23,7 @@ tile: Ship Insurance Policy
 | Source of Income                  | PASSENGER, FREIGHT                  | Sectors Navigated    | SPINWARD MARCHES                                             |  
 | Maintenance Period                | MONTHLY                             | Operating Period     | YEAR-ROUND                                                   |  
 | Responsible Bank                  | HORTALEZ ET CIE                     | Responsible Parties  | KINNEAR, ARTHUR<br><br>N/A, RRHYNGIR<br><br>FINLAY, TALIA A. |  
+  
+[> Return to Ship Papers Index](./index.md)  
+  
+#shippapers
