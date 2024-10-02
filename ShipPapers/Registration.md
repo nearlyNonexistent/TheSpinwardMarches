@@ -1,8 +1,6 @@
 ---
 share: "true"
 title: Certificate of Registry
-tags:
-  - shippapers
 ---
 # Certificate of Registry  
 ---  
