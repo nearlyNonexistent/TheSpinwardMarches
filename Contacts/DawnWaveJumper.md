@@ -1,9 +1,6 @@
 ---
 share: "true"
 title: Dawn Wave Jumper
-tags:
-  - friendly
-  - contact
 ---
 # Dawn Wave Jumper, Pirate  
   
