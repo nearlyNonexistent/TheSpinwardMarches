@@ -1,8 +1,6 @@
 ---
 share: "true"
 title: Shipworthiness Certificates
-tags:
-  - shippapers
 ---
 # Spaceworthiness Certificates  
 ## Initial Certificate  
