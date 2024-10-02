@@ -67,6 +67,7 @@ Note: Aslan _ihatei_, Vargr packs and Droyne _oytrips_ consist of several relate
 |                | Makhidkarun                 | Luxury Goods, Electronics        | ![](https://geps.dev/progress/50) |  
 |                | Sharurshid                  | Shipping                         | ![](https://geps.dev/progress/50) |  
 |                | Zirunkariish                | Finance and Investment           | ![](https://geps.dev/progress/50) |  
+  
 ## Criminal Organizations  
   
 | **Importance** | **Name**                                  | **Domain of Interest**         | **Relationship**                  |  
