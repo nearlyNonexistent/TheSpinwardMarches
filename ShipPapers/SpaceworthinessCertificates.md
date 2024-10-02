@@ -5,12 +5,14 @@ title: Shipworthiness Certificates
 # Initial Certificate  
 TO WHOM IT MAY CONCERN:  
   
-| VESSEL               | Esun pi Kalama Waso              |  
+|                      |                                  |  
 | -------------------- | -------------------------------- |  
+| VESSEL               | Esun pi Kalama Waso              |  
 | TRANSPONDER ID       | D61E-9C0A-A3B9-D5E0              |  
 | CLASS                | _"Empress Marava"_ A2 Far Trader |  
 | DATE OF CONSTRUCTION | M5.14 1100                       |  
 | DATE OF INSPECTION   | M5.20 1100                       |  
+  
 WE CERTIFY THAT:  
   
 THE CARRYING VESSEL IS SPACEWORTHY AND REGISTERED WITH AN APPROVED TRANSPONDER AS PER IMPERIAL CLASSIFICATION LAW. ALL SYSTEMS ARE CONFIRMED FUNCTIONAL AS OF INSPECTION DATE.  
