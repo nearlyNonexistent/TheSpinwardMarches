@@ -1,7 +1,7 @@
 ---
 share: "true"
-title: TNS
+title: Traveller's News Society
 ---
-**BREAKING NEWS**:[BroadcastM2.491105](./BroadcastM2.491105.md)  
+**BREAKING NEWS**: [Broadcast M2.49 1105](./BroadcastM2.491105.md)  
 Past broadcasts:  
-* [BroadcastM2.431105](./BroadcastM2.431105.md)
+* [Broadcast M2.43 1105](./BroadcastM2.431105.md)
