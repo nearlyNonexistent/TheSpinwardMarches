@@ -5,7 +5,7 @@ title: IISS Board
   
 # Imperial Interstellar Scout Service Survey Missions  
   
-_The ship's computer displays an advertisement for the Imperial Interstellar Scout Service civilian registration program, which would give full access to the Scout database of survey requests. Military-grade sensors required._  
+_The ship's computer displays an advertisement for the [Imperial Interstellar Scout Service ](IISS.md)civilian registration program, which would give full access to the Scout database of survey requests. Military-grade sensors required._  
   
 |                               |                                                   |             |                                          |  
 | ----------------------------- | ------------------------------------------------- | ----------- | ---------------------------------------- |  
