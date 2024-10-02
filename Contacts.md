@@ -15,7 +15,7 @@ share: "true"
   
 | **Name**                                | **Relationship**                           |  
 | --------------------------------------- | ------------------------------------------ |  
-| [Arthur Kinnear, Loan Shark](Arthur%20Kinnear,%20Loan%20Shark.md) | Cosigned onto the ship. Collects the debt. |  
+| Arthur Kinnear, Loan Shark | Cosigned onto the ship. Collects the debt. |  
 ## Enemies  
   
 | **Name**                  | **Relationship**                                                                                                        |  
