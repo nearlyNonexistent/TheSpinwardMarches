@@ -89,7 +89,7 @@ Note: Aslan _ihatei_, Vargr packs and Droyne _oytrips_ consist of several relate
 |    **★★★**     | Belters of [Bowman](../Location/Bowman.md)                                          | Independents from LSP in Bowman                       | ![](https://geps.dev/progress/70) |  
 |                | [Talos](Talos.md)ian Nobility                                          | Ruling Oligarchs of the world Talos                   | ![](https://geps.dev/progress/50) |  
 |                | Baron of [Mertactor](Mertactor.md)                                         | 3I Baron, gatekeeper of Glisten.                      | ![](https://geps.dev/progress/50) |  
-|                | [Black Paw Corsairs](BlackPawCorsairs.md)                       | Led by Aghirrg Rho, Corsair Queen.                    | ![](https://geps.dev/progress/35) |  
+|                | BlackPawCorsairs                       | Led by Aghirrg Rho, Corsair Queen.                    | ![](https://geps.dev/progress/35) |  
 |                | 208th Fleet Patrol Detachment                                  | Imperial Navy anti-piracy fleet, heavily overworked   | ![](https://geps.dev/progress/50) |  
   
   
