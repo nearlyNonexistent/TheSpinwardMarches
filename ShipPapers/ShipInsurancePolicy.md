@@ -1,8 +1,6 @@
 ---
 share: "true"
 tile: Ship Insurance Policy
-tags:
-  - shippapers
 ---
 # Ship Insurance Policy  
   

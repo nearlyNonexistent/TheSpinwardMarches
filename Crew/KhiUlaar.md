@@ -1,8 +1,6 @@
 ---
 share: "true"
 title: Khi Ulaar
-tags:
-  - crew
 ---
   
 # Steward Khi Ulaar  

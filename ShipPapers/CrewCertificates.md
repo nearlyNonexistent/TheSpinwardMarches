@@ -1,8 +1,6 @@
 ---
 share: "true"
 title: Crew Certificates
-tags:
-  - shippapers
 ---
 # Crew Licenses & Certificates  
 ## Rrhyngir, Pilot License  

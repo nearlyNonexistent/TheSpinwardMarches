@@ -1,8 +1,6 @@
 ---
 share: "true"
 title: Crew Management Documents
-tags:
-  - shippapers
 ---
 # Articles of Agreement  
   

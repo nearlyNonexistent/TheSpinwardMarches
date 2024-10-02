@@ -1,8 +1,6 @@
 ---
 share: "true"
 title: Captain Rrhyngir
-tags:
-  - crew
 ---
   
 # Captain Rrhyngir  

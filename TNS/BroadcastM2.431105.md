@@ -1,8 +1,6 @@
 ---
 share: "true"
 tile: Broadcast M2.43 1105
-tags:
-  - news
 ---
 # Broadcast M2.43 1105  
 Officials of the General Shipyards on Regina announced that it has completed negotiations with Tukera Lines to locally manufacture L-Hyd drop tanks for use on high-capacity commercial vessels. General will assemble components at its more modern facilities on Pixie (Spinward Marches 1903). The first production examples are expected to be available within six months, at which time Tukera Lines will begin high capacity service from the interior. Component assembly will be carried out at General's more modern facilities on Pixie.  

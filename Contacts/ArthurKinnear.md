@@ -1,9 +1,6 @@
 ---
 share: "true"
 title: Arthur Kinnear
-tags:
-  - neutral
-  - contact
 ---
 # Arthur Kinnear, Loan Shark  
 ![500x500](../Attachments/ArthurKinnear.png)  

@@ -11,7 +11,7 @@ title: Ship Papers
 - [Mortgage Agreement Details](./MortgageAgreementDetails.md), including payments  
 - [Ship Insurance Policy](./ShipInsurancePolicy.md)  
 - ShipsLogs and [Jump Logs](../JumpLog.md) (summary logs of maintenance, flight, departmental needs as well as officers' personal logs.)  
-- ShippingRecords (cargo, bills of sale, receipts, nature of the goods, owner, consignee, special handling instructions, port of origin, destination, passengers)  
+- Shipping Records (cargo, bills of sale, receipts, nature of the goods, owner, consignee, special handling instructions, port of origin, destination, passengers)  
 - ShipsLedger (records of cargo purchase and sale, payments for shipping and/or delivery of freight, mortgage payments, port fees, repair costs, costs for life support and other supplies, payroll, and so on.  
 - Other documents as necessary, examples: import and export licenses, end user certificates, material safety data sheets…  
 **Files to be renewed as necessary at the proper authority:**  
