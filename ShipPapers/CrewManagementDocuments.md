@@ -23,19 +23,16 @@ IN WITNESS WHEREOF the said Crew have subscribed their names herein on the Crew 
 # Crew Roster  
 ## Officers  
   
-| Name             | Title, Salary                  |  
+| Name             | Title and Salary               |  
 | ---------------- | ------------------------------ |  
 | FINLAY, TALIA A. | ENGINEER, MEDIC - PROFIT SHARE |  
 | N/A, RRHYNGIR    | CAPTAIN, PILOT - PROFIT SHARE  |  
 ## Permanent Crew  
   
-| Name       | Title, Salary                      |  
+| Name       | Title and Salary                   |  
 | ---------- | ---------------------------------- |  
 | ULAAR, KHI | STEWARD, SENSORS OPERATOR - CR2000 |  
-|            |                                    |  
+  
 ## Working Passage  
   
-| Name | Duration |  
-| ---- | -------- |  
-|      |          |  
-|      |          |
+N/A...
