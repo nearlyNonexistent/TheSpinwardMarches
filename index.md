@@ -14,7 +14,7 @@ title: Empress Marava Ship Computer System
   
 ## /userdata  
   
-* ShipsLogs  
+* [Ship's Logs](./ShipPapers/ShipsLogs.md)  
 * [Contacts](./Contacts/index.md)  
 * [Missions](./Attachments/Missions.md)  
 * [Crew Profile Pages](./Crew/index.md)  
