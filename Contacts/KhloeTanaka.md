@@ -7,7 +7,7 @@ tags:
 ---
   
 # Khloe Tanaka, Colony Manager and TTC Executive  
-![KhloeTanaka.png](../Attachments/KhloeTanaka.png)  
+![500x500](../Attachments/KhloeTanaka.png)  
   
 Colony Manager for the Trexalon Technical Consortium,  Baroness Khloe Tanaka manages the company's Asteltine branch, one of the least respectable ones as it only exists to keep tabs on the mining operations belonging to Delgado and Sternmetal Horizons on the same planet.  
   
