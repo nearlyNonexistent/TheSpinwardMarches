@@ -1,9 +1,12 @@
 ---
 share: "true"
+title: Certificate of Registry
+tags:
+  - shippapers
 ---
+# Certificate of Registry  
+---  
 **The Third Imperium of the Stars, Astral Division**  
----------  
-**Certificate of Registry**  
   
 WHEREAS, the Government of THE THIRD IMPERIUM OF THE STARS, has considered and approved the application of the ship described hereunder. THEREFORE, be it resolved, that there be issued, pursuant to the terms of the Free Shipping Act 950 IC, this Certificate of registry to the said vessel entitling her to engage in foreign trade as a Free Trader and be accorded the rights and privileges in accordance with the Free Shipping Act, 950 IC.  
   
@@ -33,4 +36,8 @@ This certificate expires on M2.30 1120.
   
 _Selina King_  
   
-Commissioner for Astral Affairs of Provisional District 268
+Commissioner for Astral Affairs of Provisional District 268  
+  
+[> Return to Ship Papers Index](./index.md)  
+  
+#shippapers
