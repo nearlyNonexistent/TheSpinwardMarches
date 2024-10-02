@@ -7,7 +7,7 @@ tags:
 ---
   
 # Syr Nova Bella, Star Priestess  
-![NovaBella.png](../Attachments/NovaBella.png)  
+![500x500](../Attachments/NovaBella.png)  
   
 A missionary from the Imperial border-world of Mertactor, Nova Bella came to the frontier to spread the word of the Church of Stellar Divinity, to fight back the Pavabidian heresy's spread. So far, she has found few who will sing the Starsong. She has however found a lover, in the form of [Talia Finlay](../Crew/TaliaFinlay.md).  
   
