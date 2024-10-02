@@ -1,5 +1,6 @@
 ---
 share: "true"
+title: Contacts
 ---
 # Individual Contacts  
 ## Allies  
