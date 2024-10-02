@@ -6,7 +6,7 @@ tags:
 ---
 # Talia Atlas Finlay, First Mate  
   
-![TaliaFinlay.png](../Attachments/TaliaFinlay.png)  
+![500x500](../Attachments/TaliaFinlay.png)  
   
 * Graduate of M. Kova Sea and Stars University  
 * Ex-Journalist for Collace News Network. Top story: *Inner Workings of the Sharkteeth Gang: An Insider's Story.*  
