@@ -1,7 +1,10 @@
 ---
 share: "true"
 title: Mortgage Agreement Details
+tags:
+  - shippapers
 ---
+# Mortgage Agreement  
 This Mortgage Deed (this "Mortgage") is made as of this M2.33 1105, by and among/between:  
   
 BORROWER(S): N/A, RRHYNGIR; FINLAY, TALIA A. located at BOWMAN LSP-03 APARTMENT 314; ~SPINWARD_MARCHES (collectively, the "Borrower") and  
@@ -26,4 +29,8 @@ NOW THEREFORE, in consideration of the loan for the Principal Amount plus intere
 2. **Payment.** The Borrower promises to pay the Principal Amount and interest pursuant to the terms and conditions of the Note and this Mortgage, and any other reasonable charges or amounts set out in or secured by the Note and this Mortgage. (Estimated at 224,242 Cr monthly.) Payment shall be transmitted to the escrow account stored within the Property's transponder, and then transferred to payment processors upon docking with accredited Starports.  
 3. **Senior Mortgages.** No superior mortgage or the note secured by it will be modified without the consent of the Lender hereunder.  
 4. **Insurance.** The Property will be insured under a policy with any licensed ship insurance provider.  
-5. **Licensure and Registration.** The Property and all crew will be licensed and registered as required, and all legal paperwork maintained.
+5. **Licensure and Registration.** The Property and all crew will be licensed and registered as required, and all legal paperwork maintained.  
+  
+[> Return to Ship Papers Index](./index.md)  
+  
+#shippapers
