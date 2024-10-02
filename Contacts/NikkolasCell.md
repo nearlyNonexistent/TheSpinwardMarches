@@ -1,9 +1,6 @@
 ---
 share: "true"
 title: Doctor Nikkolas Cell
-tags:
-  - friendly
-  - contact
 ---
 # Doctor Nikkolas Cell, Xenoarch  
 ![500x500](../Attachments/NikkolasCell.png)  
