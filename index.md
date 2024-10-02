@@ -6,7 +6,7 @@ title: index
 * [Contacts](./Contacts/index.md)  
 * [Missions](./Missions.md)  
 * [Traveller News Society](./TNS/index.md)  
-* [JumpLog](./JumpLog.md)  
-* [Library Data](Library%20Data.md)  
-* [Ship Papers](Ship%20Papers.md)  
+* [Jump Log](./JumpLog.md)  
+* [Library Data](LibraryData.md)  
+* [Ship Papers](./ShipPapers/index.md)  
 * Crew
