@@ -28,7 +28,7 @@ title: Library Data Index
 ## General  
 * [AAB](./AAB.md)  
 * [Advanced Base](./AdvancedBase.md)  
-* [All Terrain Vehicle](./ATV.md)  
+* ATV  
 * [Air/Raft](./AirRaft.md)  
 * [Amber Zone](./AmberZone.md)  
 * [Anagathics](./Anagathics.md)  
@@ -151,7 +151,7 @@ title: Library Data Index
 * [Vriterbei, The](Vriterbei.md)  
   
 ## Alien  
-* [Ancients](./Ancients.md)  
+* Ancients  
 * [Andory](Andory.md)  
 * [Anola](Anola.md)  
 * [Aslan](Aslan.md)  
@@ -169,7 +169,7 @@ title: Library Data Index
 * [Garan's Leech](GaransLeech.md)  
 * [Garhawk](Garhawk.md)  
 * [Hiver](Hiver.md)  
-* [Humaniti](../Humaniti.md)  
+* Humaniti  
 * [Hoplite](Hoplite.md)  
 * [Jgd-Il-Jagd](Jgd-Il-Jagd.md)  
 * [Kian](Kian.md)  
@@ -193,7 +193,7 @@ title: Library Data Index
 * [Sword Worlds Confederation](SwordWorldsConfederation.md)  
 * [Sylean Federation](SyleanFederation.md)  
 * [Tree Kraken](TreeKraken.md)  
-* [Two Thousand Worlds](./TwoThousandWorlds.md)  
+* TwoThousandWorlds  
 * [Uplift](Uplift.md)  
 * [Vegan](Vegan.md)  
 * [Vilani](Vilani.md)  
@@ -223,7 +223,7 @@ title: Library Data Index
   
 ### Zhodani  
 * [Olympiad](Olympiad.md)  
-* [Psionic Games](./PsionicGames.md)  
+* PsionicGames  
 * [Zhodane](Zhodane.md)  
 * [Zhodani](Zhodani.md)  
   
