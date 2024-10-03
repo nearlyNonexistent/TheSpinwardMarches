@@ -28,7 +28,7 @@ title: Library Data Index
 ## General  
 * [AAB](./AAB.md)  
 * [Advanced Base](./AdvancedBase.md)  
-* [All Terrain Vehicle](./ATV.md)  
+* ATV  
 * [Air/Raft](./AirRaft.md)  
 * [Amber Zone](./AmberZone.md)  
 * [Anagathics](./Anagathics.md)  
@@ -143,6 +143,7 @@ title: Library Data Index
 * [Travellers ](../TNS/index.md)  
 * [Xboat Station](XboatStation.md)  
 * [Xnet](Xnet.md)  
+  
 ## Criminal  
 * [Liberation Front](LiberationFront.md) AKA Ine Givar  
 * [Rabwhar, Democratic Government-in-Exile of](Rabwhar.md)  
@@ -150,7 +151,7 @@ title: Library Data Index
 * [Vriterbei, The](Vriterbei.md)  
   
 ## Alien  
-* [Ancients](./Ancients.md)  
+* Ancients  
 * [Andory](Andory.md)  
 * [Anola](Anola.md)  
 * [Aslan](Aslan.md)  
@@ -168,7 +169,7 @@ title: Library Data Index
 * [Garan's Leech](GaransLeech.md)  
 * [Garhawk](Garhawk.md)  
 * [Hiver](Hiver.md)  
-* [Humaniti](../Humaniti.md)  
+* Humaniti  
 * [Hoplite](Hoplite.md)  
 * [Jgd-Il-Jagd](Jgd-Il-Jagd.md)  
 * [Kian](Kian.md)  
@@ -192,14 +193,16 @@ title: Library Data Index
 * [Sword Worlds Confederation](SwordWorldsConfederation.md)  
 * [Sylean Federation](SyleanFederation.md)  
 * [Tree Kraken](TreeKraken.md)  
-* [Two Thousand Worlds](./TwoThousandWorlds.md)  
+* TwoThousandWorlds  
 * [Uplift](Uplift.md)  
 * [Vegan](Vegan.md)  
 * [Vilani](Vilani.md)  
+  
 ### Darrian  
 * [Darrian](Darrian.md)  
 * [Star Trigger](StarTrigger.md)  
 * [Maghiz](Maghiz.md)  
+  
 ### Solomani  
 * [European Space Agency Long Range Colony Mission](EuropeanSpaceAgencyLongRangeColonyMission.md)  
 * [Phoenix Project](PhoenixProject.md)  
@@ -211,14 +214,16 @@ title: Library Data Index
 * [Solomani Hypothesis](SolomaniHypothesis.md)  
 * [Solomani Movement](SolomaniMovement.md)  
 * [Solomani Rim War (990-1002)](SolomaniRimWar.md)  
+  
 ### Vargr  
 * [Vargr](Vargr.md)  
 * [Vargr Campaigns](VargrCampaigns.md)  
 * [Vargr Extents](VargrExtents.md)  
 * [Vargr Homeworld, Lair](Lair.md)  
+  
 ### Zhodani  
 * [Olympiad](Olympiad.md)  
-* [Psionic Games](./PsionicGames.md)  
+* PsionicGames  
 * [Zhodane](Zhodane.md)  
 * [Zhodani](Zhodani.md)  
   
@@ -241,7 +246,7 @@ title: Library Data Index
 * [Iridium Throne](IridiumThrone.md)  
 * [Octagon Society](OctagonSociety.md)  
 * [Outward Coalition](OutwardCoalition.md)  
-* [|Pangalactic Friends of Life](PangalacticFriendsofLife.md)  
+* [Pangalactic Friends of Life](PangalacticFriendsofLife.md)  
 * [Postal Union](PostalUnion.md)  
 * [Psychohistory](Psychohistory.md)  
 * [Ramshackle Empire](RamshackeEmpire.md)  
