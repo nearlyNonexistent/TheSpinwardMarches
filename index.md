@@ -21,7 +21,7 @@ title: Empress Marava Ship Computer System
   
 ## /network  
   
-* [Traveller News Society Bulletin Board](./TNS/index.md)  
+* [Traveller News Service Bulletin Board](./TNS/index.md)  
 * [Mercenary Ticket System](./MercenaryTicketSystem.md)  
 * [IISS Survey Mission Board](./IISSBoard.md)  
   
