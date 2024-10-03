@@ -4,8 +4,10 @@ title: Library Data Index
 ---
   
 # Library Data Index  
-*Ctrl+F Recommended.*  
+> [!WARNING]  
+> Library Data mostly nonfunctional. Please contact a system administrator.  
   
+*Ctrl+F Recommended.*  
 ## Table of Contents  
 * [LibraryData > General](index.md#general)  
 * [LibraryData > Locations](index.md#locations)  
@@ -24,12 +26,12 @@ title: Library Data Index
 * [LibraryData > Naval](index.md#naval)  
   
 ## General  
-  
-* [AAB](AAB.md)  
-* [Advanced Base](AdvancedBase.md)  
-* [All Terrain Vehicle](ATV.md)  
-* [Air/Raft](AirRaft.md)  
-* [Anagathics](Anagathics.md)  
+* [AAB](./AAB.md)  
+* [Advanced Base](./AdvancedBase.md)  
+* [All Terrain Vehicle](./ATV.md)  
+* [Air/Raft](./AirRaft.md)  
+* [Amber Zone](./AmberZone.md)  
+* [Anagathics](./Anagathics.md)  
 * [Astrography](Astrography.md)  
 * [Belt Mining](BeltMining.md)  
 * [Cassette](Cassette.md)  
@@ -78,9 +80,9 @@ title: Library Data Index
 * [Twilight's Peak](TwilightsPeak.md)  
 * [Way Station](WayStation.md)  
 * [Year Zero](YearZero.md)  
+  
 ## Locations  
-* [Abyss Rift](AbyssRift.md)  
-* [Amber Zone](AmberZone.md)  
+* [Abyss Rift](./AbyssRift.md)  
 * [Behind the Claw](BehindTheClaw.md)  
 * [Calibration Point](CalibrationPoint.md)  
 * [Capital](Capital.md)  
@@ -102,8 +104,9 @@ title: Library Data Index
 * [Terra](Terra.md), Earth  
 * [Victoria](Victoria.md)  
 * [Vland](Vland.md)  
+  
 ## Megacorp  
-* [Al Morai](AlMorai.md)  
+* [Al Morai](./AlMorai.md)  
 * [Akasi Shipping Incorporated](AkasiShipping.md)  
 * [Division, The](TheDivision.md)  
 * [Delgado Trading, LIC](DelgadoTradingLIC.md)  
@@ -128,8 +131,9 @@ title: Library Data Index
 * [Tukera Lines](TukeraLines.md)  
 * [Vemene](Vemene.md)  
 * [Zirunkariish](Zirunkariish.md)  
+  
 ## Media  
-* DenebDatastreamDirect  
+* [Deneb Datastream Direct](./DenebDatastreamDirect.md)  
 * [Express Boats](ExpressBoats.md)  
 * [MySpace](MySpace.md)  
 * [NebulaNote](NebulaNote.md)  
@@ -144,8 +148,9 @@ title: Library Data Index
 * [Rabwhar, Democratic Government-in-Exile of](Rabwhar.md)  
 * [Syndicate, The](Syndicate.md)  
 * [Vriterbei, The](Vriterbei.md)  
+  
 ## Alien  
-* [Ancients](Ancients.md)  
+* [Ancients](./Ancients.md)  
 * [Andory](Andory.md)  
 * [Anola](Anola.md)  
 * [Aslan](Aslan.md)  
@@ -163,7 +168,7 @@ title: Library Data Index
 * [Garan's Leech](GaransLeech.md)  
 * [Garhawk](Garhawk.md)  
 * [Hiver](Hiver.md)  
-* [Humaniti](Humaniti.md)  
+* [Humaniti](../Humaniti.md)  
 * [Hoplite](Hoplite.md)  
 * [Jgd-Il-Jagd](Jgd-Il-Jagd.md)  
 * [Kian](Kian.md)  
@@ -187,11 +192,11 @@ title: Library Data Index
 * [Sword Worlds Confederation](SwordWorldsConfederation.md)  
 * [Sylean Federation](SyleanFederation.md)  
 * [Tree Kraken](TreeKraken.md)  
-* TwoThousandWorlds  
+* [Two Thousand Worlds](./TwoThousandWorlds.md)  
 * [Uplift](Uplift.md)  
 * [Vegan](Vegan.md)  
 * [Vilani](Vilani.md)  
-## Darrian  
+### Darrian  
 * [Darrian](Darrian.md)  
 * [Star Trigger](StarTrigger.md)  
 * [Maghiz](Maghiz.md)  
@@ -206,21 +211,22 @@ title: Library Data Index
 * [Solomani Hypothesis](SolomaniHypothesis.md)  
 * [Solomani Movement](SolomaniMovement.md)  
 * [Solomani Rim War (990-1002)](SolomaniRimWar.md)  
-## Vargr  
+### Vargr  
 * [Vargr](Vargr.md)  
 * [Vargr Campaigns](VargrCampaigns.md)  
 * [Vargr Extents](VargrExtents.md)  
 * [Vargr Homeworld, Lair](Lair.md)  
-## Zhodani  
+### Zhodani  
 * [Olympiad](Olympiad.md)  
-* PsionicGames  
+* [Psionic Games](./PsionicGames.md)  
 * [Zhodane](Zhodane.md)  
 * [Zhodani](Zhodani.md)  
+  
 ## Political  
-* [Ag Worlds Combine](AgWorldsCombine.md)  
+* [Ag Worlds Combine](./AgWorldsCombine.md)  
 * [Arden, Federation of](ArdenFederation.md)  
 * [Archon Thesis](Archon%20Thesis.md)  
-* BlackPawCorsairs  
+* [Black Paw Corsairs](./BlackPawCorsairs.md)  
 * [First Imperium, Ziru Sirka](FirstImperium.md)  
 * [Holiday Year](HolidayYear.md)  
 * [Imperial Calendar](ImperialCalendar.md)  
@@ -247,6 +253,7 @@ title: Library Data Index
 * [ScoutRon](ScoutRon.md)  
 * [Shudusham Concords](ShudushamConcords.md)  
 * [Third Imperum](ThirdImperium.md), The Imperium  
+  
 ### Nobility  
 * [Brzk](Brzk.md)  
 * [Ciencia Iphegenia](CienciaIphegenia.md)  
@@ -263,11 +270,13 @@ title: Library Data Index
 * [Nobility](Nobility.md)  
 * [Strephon Aella Alkhalikoi](TheEmperor.md)  
 * [Varian Alkhalikoi Alkhalikoi](VarianAlkhalikoi.md)  
+  
 ## Religious  
 * [Church of the Chosen Ones](ChurchOfTheChosenOnes.md)  
 * [Disciples of the Bright Way](DisciplesOfTheBrightWay.md)  
 * [Stellar Divinity, Church of](ChurchStellarDivinity.md)  
 * [Traveller, Cult of the](TravellerCult.md)  
+  
 ## Historical (Non-Naval)  
 * [Ansing Expedition](AnsingExpedition.md)  
 * [Long Night](LongNight.md)  

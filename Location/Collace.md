@@ -1,7 +1,6 @@
 ---
 share: "true"
 ---
-  
 # Collace 12.37  
 *Client State, Third Imperium*  
   

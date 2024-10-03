@@ -2,7 +2,7 @@
 share: "true"
 title: Bowman
 ---
-# Bowman  
+# Bowman 11.32  
 *Client state, Third Imperium*  
 D000300-9  
 As Lo Va  
