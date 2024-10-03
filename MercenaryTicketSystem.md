@@ -2,7 +2,6 @@
 share: "true"
 title: Mercenary Ticket System
 ---
-  
 # Mercenary Ticket System  
   
 _The ship computer displays a series of advertisements for several different mercenary licensing agencies. the Division, Mereditia Security Services, Akasi Shipping Incorporated, and the Federated Republic of Rorginn in order of decreasing price and respectability. It also tantalizes with a few mercenary tickets._  
