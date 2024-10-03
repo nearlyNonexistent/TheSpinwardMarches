@@ -143,6 +143,7 @@ title: Library Data Index
 * [Travellers ](../TNS/index.md)  
 * [Xboat Station](XboatStation.md)  
 * [Xnet](Xnet.md)  
+  
 ## Criminal  
 * [Liberation Front](LiberationFront.md) AKA Ine Givar  
 * [Rabwhar, Democratic Government-in-Exile of](Rabwhar.md)  
@@ -196,10 +197,12 @@ title: Library Data Index
 * [Uplift](Uplift.md)  
 * [Vegan](Vegan.md)  
 * [Vilani](Vilani.md)  
+  
 ### Darrian  
 * [Darrian](Darrian.md)  
 * [Star Trigger](StarTrigger.md)  
 * [Maghiz](Maghiz.md)  
+  
 ### Solomani  
 * [European Space Agency Long Range Colony Mission](EuropeanSpaceAgencyLongRangeColonyMission.md)  
 * [Phoenix Project](PhoenixProject.md)  
@@ -211,11 +214,13 @@ title: Library Data Index
 * [Solomani Hypothesis](SolomaniHypothesis.md)  
 * [Solomani Movement](SolomaniMovement.md)  
 * [Solomani Rim War (990-1002)](SolomaniRimWar.md)  
+  
 ### Vargr  
 * [Vargr](Vargr.md)  
 * [Vargr Campaigns](VargrCampaigns.md)  
 * [Vargr Extents](VargrExtents.md)  
 * [Vargr Homeworld, Lair](Lair.md)  
+  
 ### Zhodani  
 * [Olympiad](Olympiad.md)  
 * [Psionic Games](./PsionicGames.md)  
@@ -241,7 +246,7 @@ title: Library Data Index
 * [Iridium Throne](IridiumThrone.md)  
 * [Octagon Society](OctagonSociety.md)  
 * [Outward Coalition](OutwardCoalition.md)  
-* [|Pangalactic Friends of Life](PangalacticFriendsofLife.md)  
+* [Pangalactic Friends of Life](PangalacticFriendsofLife.md)  
 * [Postal Union](PostalUnion.md)  
 * [Psychohistory](Psychohistory.md)  
 * [Ramshackle Empire](RamshackeEmpire.md)  
